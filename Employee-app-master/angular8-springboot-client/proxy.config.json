@@ -1,0 +1,7 @@
+{
+    "/springboot-crud-rest/*": {
+      "target": "http://172.27.59.199:8088",
+      "secure": false,
+      "logLevel": "debug"
+    }
+  }
